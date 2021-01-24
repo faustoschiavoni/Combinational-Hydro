@@ -49,10 +49,10 @@ def Risultati(Giorni, permutazioni, Combinazioni_portata,na, nb, A, Ap, Hnet, Hn
         'bold': True,
         'text_wrap': False,
         'valign': 'vcenter',
-        'fg_color': '#7FFFD4',  # colore ascii: acqua marina
+        'fg_color': '#7FFFD4',
         'center_across': True,
         'shrink': False,
-        'border_color': '#F9966B',  # colore: corallo leggero (corallo: #FF7F50 , ruggine: #C36241),
+        'border_color': '#F9966B', 
         'border': 2})
 
     worksheet1.set_row(0, 17)
